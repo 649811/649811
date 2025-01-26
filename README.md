@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+[<!--
 **649811/649811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hobbyist%20Developer)
