@@ -3,4 +3,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hobbyist%20Developer" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=649811&layout=compact) [![649811's GitHub stats](https://github-readme-stats.vercel.app/api?username=649811)](https://github.com/649811/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=649811&layout=compact) 
